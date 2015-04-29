@@ -3,9 +3,10 @@
 	/**
 	 * recursive fibonacci function without memoization
 	 * 
-	 * 	examples with results:	getFibonacci(1) -> 1
-	 * 							getFibonacci(7) -> 13
-	 * 							getFibonacci(17) -> 1597
+	 * examples with results:	
+	 * 	getFibonacci(1) -> 1
+	 * 	getFibonacci(7) -> 13
+	 * 	getFibonacci(17) -> 1597
 	 */
 
 	function getFibonacci($number){
